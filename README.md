@@ -4,7 +4,27 @@
 <p align="center">
 Building Real-World AI Systems • Automation Tools • Scalable Software
 </p>
+<!-- ================= HERO / COVER ================= -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Muhammad%20Yasir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<div align="center">
+
+```ts
+const developer: string = "Muhammad Yasir";
+const role: string[] = [
+  "AI Engineer",
+  "AI Agents Developer",
+  "Software Engineer"
+];
+🚀 Building Real-World AI Systems • Automation Tools • Scalable Software
+🌐 Portfolio: https://muhammad-yasir.netlify.app/
+
+📬 Let's Connect: raja.yasirjanjua999@gmail.com
+
+</div>
 # 💫 About Me:
  Building AI Agents, Automation Systems, and Scalable Web Applications<br> Open to collaborating on AI Startups, ML Projects, and Open-Source AI Tools<br> Seeking mentorship in Advanced AI Engineering, System Design, and Production-Level AI Deployment<br> Currently learning Deep Learning, LLM Applications, Quantum Cryptography, and Cloud AI Systems<br> Ask me about AI Development, Python, C++, Web Technologies, and AI Automation Workflows<br> Passionate about turning innovative AI ideas into real-world products
 
