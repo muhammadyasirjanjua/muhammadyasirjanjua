@@ -1,160 +1,36 @@
-<div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=header&text=Muhammad%20Yasir&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Muhammad+Yasir+%F0%9F%91%8B;Frontend+Developer+%7C+CS+Undergrad;Exploring+AI+%C2%B7+ML+%C2%B7+Quantum+Computing;Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+%7C+ML+%7C+Data+Science+%7C+Quantum+Computing;CS+Undergrad+%40+FAST+NUCES+Peshawar;Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+the+Frontier+of+Computation+%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
 
-<br/>
+# 💫 About Me:
+I'm Muhammad Yasir, a Computer Science undergrad at FAST NUCES, Peshawar, deeply focused on Artificial Intelligence, Machine Learning, Data Science, and Quantum Computing.<br>These aren't just subjects I study, they're problems I think about constantly. I'm drawn to the kind of challenges that sit at the frontier of what's currently possible: training models that generalize well, building intelligent systems that act autonomously, and understanding how quantum mechanics can fundamentally expand what computation means.<br>At the moment I'm actively developing in AI Automation, Intelligent Workflows, and Voice Agents, moving from theory into systems that perceive, reason, and respond. I believe the engineers who will shape the next decade aren't the ones who use AI as a tool, but the ones who understand it well enough to push its limits.<br>I'm in the early chapters of that journey. But I'm moving with intention, building with curiosity, and learning at a pace that keeps me uncomfortable, which is exactly where growth happens.<br><br>"Quantum mechanics tells us the universe doesn't compute classically. Neither do I."
 
-<!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=muhammadyasirjanjua&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22&color=58A6FF)
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yasirjanjua_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-yasir-janjua) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/realyasirjanjua) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raja.yasirjanjua999@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🧑‍💻 About Me
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammadyasirjanjua&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muhammadyasirjanjua&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyasirjanjua&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-```python
-class MuhammadYasir:
-    def __init__(self):
-        self.name        = "Muhammad Yasir"
-        self.university  = "FAST NUCES — Peshawar Campus 🏫"
-        self.degree      = "BS Computer Science (2nd Year)"
-        self.role        = "Frontend Developer"
-        self.exploring   = ["AI", "Machine Learning", "Data Science", "Quantum Computing"]
-        self.languages   = ["Python", "JavaScript", "C/C++"]
-        self.available   = True  # open to collaborations!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadyasirjanjua&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing 🚀")
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-me = MuhammadYasir()
-me.say_hi()
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**AI / Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-
-**AI Automation & Agents**
-
-![n8n](https://img.shields.io/badge/AI_Automation-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![Voice Agents](https://img.shields.io/badge/Voice_Agents-0d1117?style=for-the-badge&logo=amazonalexa&logoColor=00CAFF)
-![AI Workflows](https://img.shields.io/badge/AI_Workflows-0d1117?style=for-the-badge&logo=openai&logoColor=74aa9c)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadyasirjanjua&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyasirjanjua&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=muhammadyasirjanjua&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=161b22"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadyasirjanjua&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Replace repo names below with your actual repository names -->
-
-<a href="https://github.com/muhammadyasirjanjua/YOUR-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadyasirjanjua&repo=YOUR-REPO-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/muhammadyasirjanjua/YOUR-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadyasirjanjua&repo=YOUR-REPO-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/muhammadyasirjanjua/YOUR-REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadyasirjanjua&repo=YOUR-REPO-3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-</a>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/YOUR-TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://YOUR-PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR-EMAIL@gmail.com)
-
-</div>
-
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muhammadyasirjanjua&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📈 Contribution Activity
-
-<div align="center">
-
-[![Yasir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadyasirjanjua&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+[![Yasir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadyasirjanjua&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=muhammadyasirjanjua&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
-
-*"The best way to predict the future is to build it."*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
