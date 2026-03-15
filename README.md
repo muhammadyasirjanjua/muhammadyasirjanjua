@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=header&text=Muhammad%20Yasir&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=header&text=MUHAMMAD%20YASIR&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+%7C+ML+%7C+Data+Science+%7C+Quantum+Computing;CS+Undergrad+%40+FAST+NUCES+Peshawar;Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+the+Frontier+of+Computation+%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
 
